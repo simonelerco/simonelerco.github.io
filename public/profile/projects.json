@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/tmnt.jpg",
+      "title": "TMNT Splintered Fate",
+      "bodyText": "- Implementation of narrative by event scripting\n - Engine-level changes to better support narrative needs",
+      "links": [
+        {
+          "text": "Website",
+          "href": "https://superevilmegacorp.com/games/tmnt-splintered-fate/"
+        }
+      ],
+      "tags": ["C++", "Proprietary Engine", "Design", "Marketing"]
+    },
+    {
+      "image": "images/projects/catalyst.jpg",
+      "title": "Catalyst Black",
+      "bodyText": "- Capturing of footage for marketing purposes\n - Video editing and motion graphics for social media campaigns\n - Establishing a pipeline for recordings",
+      "links": [
+        {
+          "text": "Website",
+          "href": "https://www.catalystblack.com/"
+        }
+      ],
+      "tags": [
+        "Photoshop",
+        "Premiere Pro",
+        "After Effects",
+        "Blender",
+        "Proprietary Engine",
+        "Marketing"
+      ]
+    },
+    {
+      "image": "images/projects/dlss.jpg",
+      "title": "DLSS - Unity Betwixt",
+      "bodyText": "- Standalone Unity game\n - Programming, 2D art, 3D modelling",
+      "links": [
+        {
+          "text": "Website",
+          "href": "https://baby-pigman.itch.io/dlss"
+        }
+      ],
+      "tags": ["C#", "Unity", "Photoshop", "Blender"]
+    },
+    {
+      "image": "images/projects/dangeon.jpg",
+      "title": "Enter the Dangeon",
+      "bodyText": "- Mod for Enter the Gungeon\n - Replaces character sprites and text",
+      "links": [
+        {
+          "text": "Website",
+          "href": "https://baby-pigman.itch.io/enter-the-dangeon"
+        }
+      ],
+      "tags": ["Aseprite", "Photoshop"]
+    },
+    {
+      "image": "images/logo-s.jpg",
+      "title": "Youtube - Baby Pigman",
+      "bodyText": "",
+      "links": [
+        {
+          "text": "Website",
+          "href": "https://baby-pigman.itch.io/enter-the-dangeon"
+        }
+      ],
+      "tags": [""]
+    }
+  ]
+}

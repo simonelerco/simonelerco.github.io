@@ -1,0 +1,16 @@
+{
+    "education": [
+        {
+            "title": "Sep 2029 - Nov 2021",
+            "cardTitle": "MSc in Forensic Science",
+            "cardSubtitle": "University of Amsterdam, Amsterdam, NL",
+            "cardDetailedText": "Thesis: The Use of Hyperspectral Imaging and Deep Neural Networks for the Non-Contact Age Estimation of Bloodstains"
+        },
+        {
+            "title": "Sep 2015 - Sep 2018",
+            "cardTitle": "BSc in Biotechnology",
+            "cardSubtitle": "University of Trento, Trento, IT",
+            "cardDetailedText": "Thesis: Development and Characterization of Inhibitors of the Human Bromodomain BAZ2A"
+        }
+    ]
+}

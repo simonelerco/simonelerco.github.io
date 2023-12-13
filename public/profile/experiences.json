@@ -1,0 +1,35 @@
+{
+  "experiences": [
+    {
+      "title": "Technical Designer",
+      "subtitle": "Super Evil Megacorp",
+      "workDescription": [
+        "Authored design specs and driven their implementation in collaboration with other disciplines",
+        "Dove into existing systems to understand their limitations and improved upon them for gameplay requirements",
+        "Delved deeply into technical problems for complex systems and driven investigations towards their solutions"
+      ],
+      "dateText": "01/2023 – Present"
+    },
+    {
+      "title": "Media Artist",
+      "subtitle": "Super Evil Megacorp",
+      "workDescription": [
+        "Worked closely with the marketing and design teams to compose and capture images and videos to show off key gameplay features",
+        "Created video content to be used in social media campaigns",
+        "Collaborated with developers to understand how to communicate gameplay and transfer knowledge through visual storytelling",
+        "Established a pipeline for in-game and in-engine recordings and asset extraction"
+      ],
+      "dateText": "02/2022 – 01/2023"
+    },
+    {
+      "title": "Research Intern",
+      "subtitle": "Amsterdam UMC",
+      "workDescription": [
+        "Used hyperspectral imaging for non-contact collection of bloodstain data.",
+        "Developed tools for visualization and pre-processing of hyperspectral data using Python.",
+        "Developed and trained a neural network using Python and Keras."
+      ],
+      "dateText": "03/2021 – 10/2021"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "intro": "I love to learn new things and experiment with new techniques!\nHere's a glimpse into my skill set:",
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
+        {
+          "icon": "images/skills/c-plus-plus.svg",
+          "title": "C++"
+        },
+        {
+          "icon": "images/skills/logo_C_sharp.png",
+          "title": "C#"
+        },
+        {
+          "icon": "images/skills/python.png",
+          "title": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Engines",
+      "items": [
+        {
+          "icon": "images/skills/unity-logo.png",
+          "title": "Unity"
+        },
+        {
+          "icon": "images/skills/unreal_engine_logo.png",
+          "title": "Unreal Engine"
+        },
+        {
+          "icon": "images/skills/godot_logo.png",
+          "title": "Godot"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        }
+      ]
+    },
+    {
+      "title": "Tools",
+      "items": [
+        {
+          "icon": "images/skills/jira-Icon.png",
+          "title": "Jira"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/perforce.png",
+          "title": "Perforce"
+        },
+        {
+          "icon": "images/skills/photoshop.png",
+          "title": "Photoshop"
+        },
+        {
+          "icon": "images/skills/illustrator.png",
+          "title": "Illustrator"
+        },
+        {
+          "icon": "images/skills/premiere-pro.png",
+          "title": "Premiere Pro"
+        },
+        {
+          "icon": "images/skills/after-effects.png",
+          "title": "After Effects"
+        }
+      ]
+    }
+  ]
+}
