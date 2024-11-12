@@ -4,9 +4,9 @@
       "title": "Technical Designer",
       "subtitle": "Super Evil Megacorp",
       "workDescription": [
-        "Authored design specs and driven their implementation in collaboration with other disciplines",
-        "Dove into existing systems to understand their limitations and improved upon them for gameplay requirements",
-        "Delved deeply into technical problems for complex systems and driven investigations towards their solutions"
+        "Authored gameplay and narrative design specs and driven their implementation in collaboration with other disciplines",
+        "Improved upon existing tools and developed new pipelines to increase efficiency for design and art teams",
+        "Implemented, playtested, and iterated over complex systems and gameplay mechanics"
       ],
       "dateText": "01/2023 – Present"
     },
@@ -20,16 +20,6 @@
         "Established a pipeline for in-game and in-engine recordings and asset extraction"
       ],
       "dateText": "02/2022 – 01/2023"
-    },
-    {
-      "title": "Research Intern",
-      "subtitle": "Amsterdam UMC",
-      "workDescription": [
-        "Used hyperspectral imaging for non-contact collection of bloodstain data.",
-        "Developed tools for visualization and pre-processing of hyperspectral data using Python.",
-        "Developed and trained a neural network using Python and Keras."
-      ],
-      "dateText": "03/2021 – 10/2021"
     }
   ]
 }

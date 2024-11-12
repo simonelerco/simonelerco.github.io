@@ -1,15 +1,15 @@
 {
-  "intro": "I love to learn new things and experiment with new techniques!\nHere's a glimpse into my skill set:",
+  "intro": "I love learning new things and experiment with new techniques!\nHere's a glimpse into my skill set:",
   "skills": [
     {
-      "title": "Languages & Databases",
+      "title": "Languages",
       "items": [
         {
           "icon": "images/skills/c-plus-plus.svg",
           "title": "C++"
         },
         {
-          "icon": "images/skills/logo_C_sharp.png",
+          "icon": "images/skills/Logo_C_sharp.png",
           "title": "C#"
         },
         {
@@ -19,15 +19,11 @@
       ]
     },
     {
-      "title": "Frameworks & Engines",
+      "title": "Engines",
       "items": [
         {
           "icon": "images/skills/unity-logo.png",
           "title": "Unity"
-        },
-        {
-          "icon": "images/skills/unreal_engine_logo.png",
-          "title": "Unreal Engine"
         },
         {
           "icon": "images/skills/godot_logo.png",
@@ -43,10 +39,6 @@
       "title": "Tools",
       "items": [
         {
-          "icon": "images/skills/jira-Icon.png",
-          "title": "Jira"
-        },
-        {
           "icon": "images/skills/git.png",
           "title": "Git"
         },
@@ -57,10 +49,6 @@
         {
           "icon": "images/skills/photoshop.png",
           "title": "Photoshop"
-        },
-        {
-          "icon": "images/skills/illustrator.png",
-          "title": "Illustrator"
         },
         {
           "icon": "images/skills/premiere-pro.png",
